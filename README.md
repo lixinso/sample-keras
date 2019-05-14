@@ -1,1 +1,5 @@
 # sample-keras
+
+
+## References
+https://keras.io/getting-started/sequential-model-guide/#examples
